@@ -1,0 +1,22 @@
+{
+  "name": "word-util",
+  "version": "1.0.0",
+  "description": "项目中 word 转 html 工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XyanZhang/node-word-util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XyanZhang/node-word-util/issues"
+  },
+  "homepage": "https://github.com/XyanZhang/node-word-util#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
