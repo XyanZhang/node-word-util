@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+  xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+  xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+  xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+  xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+  xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+  xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+  xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+  xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+  xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+  xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+  xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+  xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+  xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+  xmlns:w10="urn:schemas-microsoft-com:office:word"
+  xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+  xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+  xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+  xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+  xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+  xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+  xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+  xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+  xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+  xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+  xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+  xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="14E3C73A" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9">
+      <w:pPr>
+        <w:widowControl/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="36"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="36"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>代付授权协议</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="015EBC23" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>甲方</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>（学员）</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A6449CE" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>电话号码：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64703B6D" w14:textId="092EFAF9" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>身份证号：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6A5ED33C" w14:textId="4E95D689" w:rsidR="008E7106" w:rsidRPr="00766599" w:rsidRDefault="008E7106" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>现
+        </w:rPr>
+        <w:t>邮箱：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="40A4B6E7" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>乙方：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>成都市华金财商</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>教育科技有限公司</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A09861A" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>学员您好！欢迎阅读“</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>华金</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>教育”</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>及理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>结业费用代付授权协议</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>本协议由您与</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>成都市华金财商</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>教育科技有限公司（下称“乙方”）共同签署。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A6A402E" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>学员购买乙方相关服务之前，务必审慎阅读、充分理解本协议各条款内容，特别是承诺条款，以及免除或者限制责任的条款，上述条款将以加粗字体显示，学员（下称“甲方”）应重点阅读。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="492CE90C" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>依据《中华人民共和国合同法》等相关法律法规规定，甲乙双方本着自愿、平等的原则，达成以下代付授权协议：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5AF53E02" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>1、甲方授权乙方向收款方</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>北京金库时代信息技术有限公司（金库网：www.jinku.com) </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>或北京第五象限网络科技有限公司（理财教育网www.licaiedu.com）（具体以学员注册信息为准）</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>支付</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>“CFP资格认证培训套餐”</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>费用</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>（具体金额以学员指定收款方网站最新公示为准）</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>甲方承诺由此导致任何法律责任由甲方自行负责，乙方不承担任何责任。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0D58CBF7" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>2、甲方同意并承诺甲方对代付款项金额有异议的，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>应</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>向收款单位进行查询，乙方对</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>收款方公示信息</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>的真实性、准确性不负有审查和鉴别的责任，且关于金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>及理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>相关发票开具事宜与乙方无关，乙方对发票相关事宜不承担任何责任。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2295722A" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>3、乙方同意接受甲方授权，代替甲方付款。代付业务为甲方在完全知悉金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>及理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>相关协议规定前提下主动授权乙方负责前述费用代付事宜，甲方同意由此产生的任何法律责任</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>（包括但不限于金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>及理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>与甲方之间的任何法律纠纷）由甲方自行负责，乙方对此不承担任何责任。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5A4967E8" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>4、乙方在收到甲方款项之后，5个工作日内（遇节假日顺延）将该笔款项全部充值进入甲方指定在金库网(</w:t>
+      </w:r>
+      <w:hyperlink r:id="rId6">
+        <w:r w:rsidRPr="00766599">
+          <w:rPr>
+            <w:rStyle w:val="aa"/>
+            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+            <w:kern w:val="0"/>
+            <w:sz w:val="20"/>
+          </w:rPr>
+          <w:t>www.jinku.com</w:t>
+        </w:r>
+      </w:hyperlink>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>)</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>或</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>理财教育网（www.licaiedu.com）</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>注册的账号，并协助完成购买</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>“CFP资格认证培训套餐”</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>课程，乙方对甲方指定的账号信息承担保密义务，未经甲方书面授权，乙方不向任何第三方进行披露。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4D242764" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>5、乙方只负责甲方金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>或</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>网络培训费的代付业务，对甲方商品使用过程中产生的任何问题（包括但不限于网络培训质量、培训内容、培训讲师，网络中断、黑客攻击等导致网络培训无法进行等各项问题）不承担</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>任何</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>责任。甲方确认并知悉：乙方代付网络培训费用成功后，甲方不得向乙方申请退还该笔费用。且甲方应妥善保管其网络学习账号及密码，若发生被盗等情形与乙方无任何关系，乙方不承担任何责任，亦不予赔偿。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F0807AF" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>6、本协议自</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>乙方收到全额</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>代付款项后自动生效。甲方同意并确认：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>授权</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>乙方代付行为视为甲方向金库网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>或</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+          <w:u w:val="single"/>
+        </w:rPr>
+        <w:t>理财教育网</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>购买</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>课程</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>行为，甲方所购买的相关</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>课程有效期完全依照</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体" w:hint="eastAsia"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>收款方公布</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>的标准为准。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="721BB50A" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>7. 其他未尽事宜，由双方友好协商解决或签订书面补充协议予以确定；若本协议约定内容发生任何变动，由双方另行签订书面补充协议。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2BFD3333" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:widowControl/>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>8. 由本合同产生的争议，首先由双方友好协商解决，双方不愿协商或协商无法解决的，双方在此同意提交</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="FE0300"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>本协议签署地</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+          <w:b/>
+          <w:color w:val="333333"/>
+          <w:kern w:val="0"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>北京市西城区人民法院诉讼解决。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2BA1FB07" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00A818C9">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>（以下无正文</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>，为本协议签章处</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="00280AAC" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="00A15911" w:rsidP="00F13C93">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3D37CB1C" w14:textId="4C5CCC7F" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9" w:rsidP="00224BF5">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>甲方</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 乙方：成都市华金财商教育科技有限公司</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2077C41F" w14:textId="659F64BE" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="003517D9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00766599">
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+        <w:t>日期：    年   月   日                     日期：    年   月   日</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2DAB8FA9" w14:textId="77777777" w:rsidR="00A15911" w:rsidRPr="00766599" w:rsidRDefault="00A15911">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+          <w:sz w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:sectPr w:rsidR="00A15911" w:rsidRPr="00766599">
+      <w:pgSz w:w="11905" w:h="16837" w:orient="landscape"/>
+      <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="850" w:footer="991" w:gutter="0"/>
+      <w:cols w:space="720"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

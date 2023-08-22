@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/XyanZhang/node-word-util#readme",
   "dependencies": {
-    "adm-zip": "^0.5.10"
+    "adm-zip": "^0.5.10",
+    "fast-xml-parser": "^4.2.7"
   }
 }
