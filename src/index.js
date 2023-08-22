@@ -7,6 +7,7 @@ let contentXml = zip.readAsText('word/document.xml'); //将document.xml读取为
 
 
 const xmlUtil = require('./xmlParse');
+const { strongTag } = require('./tagHandlle');
 let xmlJsonObj = xmlUtil.parseXml(contentXml, {
   ignoreAttributes: true,
   attributeNamePrefix : "@_",
@@ -39,16 +40,16 @@ let traverse = (wps) => {
         let wrpr = wr['w:rPr'];
         let wt = wr['w:t'];
         if (wt) {
-          // html += `<span>${wt}</span>`;
-          html += `${wt}`;
+          let isStrong = wrpr['w:b'] != null;
+          html += strongTag(isStrong, wt);
         }
       });
     }else {
       let wrpr = wrs['w:rPr'];
       let wts = wrs['w:t'];
       if (wts) {
-        // html += `<span>${wts}</span>`;
-        html += `${wts}`;
+        let isStrong = wrpr['w:b'] != null;
+        html += strongTag(isStrong, wts);
       }
     }
     html += pTagEnd;
