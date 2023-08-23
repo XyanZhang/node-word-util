@@ -5,3 +5,10 @@ exports.strongTag = function(isStrong, text) {
     return text
   }
 }
+exports.aTag = function(isA, text) {
+  if(isA) {
+    return `<a href="${text}" target="_blank">${text}</a>`
+  }else {
+    return text
+  }
+}

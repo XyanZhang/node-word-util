@@ -7,11 +7,11 @@ let contentXml = zip.readAsText('word/document.xml'); //将document.xml读取为
 
 
 const xmlUtil = require('./xmlParse');
-const { strongTag } = require('./tagHandlle');
+const { strongTag, aTag } = require('./tagHandlle');
 let xmlJsonObj = xmlUtil.parseXml(contentXml, {
   ignoreAttributes: true,
   attributeNamePrefix : "@_",
-  allowBooleanAttributes: true
+  allowBooleanAttributes: true,
 });
 // console.dir(xmlJsonObj, { depth: null }); //depth: null表示不限制深度
 
@@ -29,33 +29,45 @@ let traverse = (wps) => {
     let pTagStart = '<p>';
     let pTagEnd = '</p>\n';
     html += pTagStart;
-    let wrs = wp['w:r'];
-    if(!wrs) {
-      html += pTagEnd;
-      return '';
-    }
-    if(Array.isArray(wrs)) {
-      let wrpr = wrs['w:rPr'];
-      wrs.forEach((wr, index) => {
-        let wrpr = wr['w:rPr'];
-        let wt = wr['w:t'];
-        if (wt) {
-          let isStrong = wrpr['w:b'] != null;
-          html += strongTag(isStrong, wt);
+    for (const key in wp) {
+      if(key === 'w:r') {
+        let wrs = wp['w:r'];
+        if(Array.isArray(wrs)) {
+          let wrpr = wrs['w:rPr'];
+          wrs.forEach((wr, index) => {
+            let wrpr = wr['w:rPr'];
+            let wt = wr['w:t'];
+            if (wt) {
+              let isStrong = wrpr['w:b'] != null;
+              html += strongTag(isStrong, wt);
+            }
+          });
+        }else {
+          let wrpr = wrs['w:rPr'];
+          let wts = wrs['w:t'];
+          if (wts) {
+            let isStrong = wrpr['w:b'] != null;
+            html += strongTag(isStrong, wts);
+          }
         }
-      });
-    }else {
-      let wrpr = wrs['w:rPr'];
-      let wts = wrs['w:t'];
-      if (wts) {
-        let isStrong = wrpr['w:b'] != null;
-        html += strongTag(isStrong, wts);
+      }
+      // !bug: 该库解析出来的xml中，w:hyperlink 不是按照顺序进行解析，导致生成的html中，a标签的位置不对
+      else if(key === 'w:hyperlink') {
+        let whyperlinks = wp['w:hyperlink'];
+        let wr = whyperlinks['w:r'];
+        let wrpr = wr['w:rPr'];
+        let wts = wr['w:t'];
+        if (wts) {
+          let isA = true;
+          html += aTag(isA, wts);
+        }
       }
     }
     html += pTagEnd;
   });
   return html;
 }
+
 let resultText = traverse(wps);
 // console.dir(wps, { depth: null });
 fs.writeFile('./dist/content.html', resultText, (err) => {
