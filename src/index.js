@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const AdmZip = require('adm-zip'); //引入查看zip文件的包
-let filePath = path.join(__dirname, '../file/CFP代付授权协议0807.docx');
+// let filePath = path.join(__dirname, '../file/CFP代付授权协议0807.docx');
+let filePath = path.join(__dirname, '../file/中级经济师（高效取证班协议）0807.docx');
 const zip = new AdmZip(filePath); //filePath为文件路径
 let contentXml = zip.readAsText('word/document.xml'); //将document.xml读取为text内容；
 
@@ -70,9 +71,9 @@ let traverse = (wps) => {
 
 let resultText = traverse(wps);
 // console.dir(wps, { depth: null });
-fs.writeFile('./dist/content.html', resultText, (err) => {
+fs.writeFile('./dist/content1.html', resultText, (err) => {
   if (err) throw err;
 });
-fs.writeFile('./dist/contentTxt.txt', resultText, (err) => {
+fs.writeFile('./dist/contentTxt1.txt', resultText, (err) => {
   if (err) throw err;
 });
