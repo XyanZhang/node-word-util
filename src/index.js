@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const AdmZip = require('adm-zip'); //引入查看zip文件的包
 // let filePath = path.join(__dirname, '../file/CFP代付授权协议0807.docx');
-let filePath = path.join(__dirname, '../file/中级经济师（高效取证班协议）0807.docx');
+// let filePath = path.join(__dirname, '../file/中级经济师（高效取证班协议）0807.docx');
+let filePath = path.join(__dirname, '../file/银行从业资格（精英取证班协议）20230913.docx');
 const zip = new AdmZip(filePath); //filePath为文件路径
 let contentXml = zip.readAsText('word/document.xml'); //将document.xml读取为text内容；
 
@@ -70,8 +71,35 @@ let traverse = (wps) => {
 }
 
 let resultText = traverse(wps);
+let addOuter = (innerHtml = '') => `
+<p class="font-bold center"></p>
+<p class="font-bold">甲方（学员）： <span><%= userInfo && userInfo.realName || ''%></span></p>
+<p class="font-bold">电话号码：<%= userInfo && userInfo.realName ? userInfo.mobile : ''%></p>
+<p class="font-bold">身份证号：<%= userInfo ? userInfo.idCard : ''%></p>
+<p class="font-bold">邮箱：<%= userInfo && userInfo.ext ? (userInfo.ext.email || '') : ''%></p>
+<p class="font-bold">乙方：成都市华金财商教育科技有限公司</p>
+${innerHtml}
+<p>（以下无正文，为本协议签章处）</p>
+<p class="pos-rel">甲方：
+    <% if(userAgreement && userAgreement.signState == 1) {%>
+        <img class="sign-img" src="<%=userAgreement.autographImg%>" width="120px" height="60px" alt="">
+        <!-- <img class="sign-img" src="/img/signimg.jpeg" width="120px" height="60px" alt=""> -->
+    <% } else { %>​
+        <%= userAgreement && userInfo && userInfo.realName || ''%>
+    <% } %>​
+
+    <% if(userAgreement) {%>
+        <img class="contract-seal" src="<%=cdnPrefix%>/img/huajin-contract-seal.png" width="100px" height="100px" alt="">
+    <% } %>​
+</p>
+<p>日期：<%= userAgreement && utilDateFormat(userAgreement.createTime*1000, 'ymd')%></p>
+<p>​<br></p>
+<p>乙方：成都市华金财商教育科技有限公司</p>
+<p>日期：<%= userAgreement && utilDateFormat(userAgreement.createTime*1000, 'ymd')%></p>
+<p>​<br></p>
+`
 // console.dir(wps, { depth: null });
-fs.writeFile('./dist/content1.html', resultText, (err) => {
+fs.writeFile('./dist/content1.html', addOuter(resultText), (err) => {
   if (err) throw err;
 });
 fs.writeFile('./dist/contentTxt1.txt', resultText, (err) => {
