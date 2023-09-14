@@ -1,9 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 const AdmZip = require('adm-zip'); //引入查看zip文件的包
+const readSyncFromDir = require('./readFile')
 // let filePath = path.join(__dirname, '../file/CFP代付授权协议0807.docx');
 // let filePath = path.join(__dirname, '../file/中级经济师（高效取证班协议）0807.docx');
-let filePath = path.join(__dirname, '../file/银行从业资格（精英取证班协议）20230913.docx');
+// let filePath = path.join(__dirname, '../file/银行从业资格（精英取证班协议）20230913.docx');
+let filePath = readSyncFromDir()
+console.log('readSyncFromDir',filePath)
 const zip = new AdmZip(filePath); //filePath为文件路径
 let contentXml = zip.readAsText('word/document.xml'); //将document.xml读取为text内容；
 
