@@ -43,7 +43,7 @@ let traverse = (wps) => {
             let wrpr = wr['w:rPr'];
             let wt = wr['w:t'];
             if (wt) {
-              let isStrong = wrpr['w:b'] != null;
+              let isStrong = wrpr && wrpr['w:b'] != null;
               html += strongTag(isStrong, wt);
             }
           });
@@ -51,7 +51,7 @@ let traverse = (wps) => {
           let wrpr = wrs['w:rPr'];
           let wts = wrs['w:t'];
           if (wts) {
-            let isStrong = wrpr['w:b'] != null;
+            let isStrong = wrpr && wrpr['w:b'] != null;
             html += strongTag(isStrong, wts);
           }
         }
